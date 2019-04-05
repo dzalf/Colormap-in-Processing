@@ -25,9 +25,9 @@ void setup(){
   
   defineColors();
   
-  rgb[0] = 0;//int(random(0,255));//0;
-  rgb[1] = 0;//int(random(0,255));
-  rgb[2] = 0;//int(random(0,255));
+  rgb[0] = 0;
+  rgb[1] = 0;
+  rgb[2] = 0;
   
   colorMode(RGB, 255);
 }
