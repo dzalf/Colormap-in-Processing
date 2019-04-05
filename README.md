@@ -1,4 +1,4 @@
-# Processing-Codes
+# Yet another colormap in Processing language
 Processing language tinkering
 
 A simple script for generating a colormap for data visualization.
